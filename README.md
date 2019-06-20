@@ -7,3 +7,5 @@ So I switched to the torando.httpclient, AsyncHTTPClient. This allowed me to yie
 This made the api much faster.
 
 To run the server, use the same command as the searchrunner api, python -m flightsearchapi
+
+Reference: https://github.com/Hipmunk/hipproblems/tree/master/searchrunner
